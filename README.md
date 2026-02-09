@@ -11,13 +11,21 @@ These users expect a professional appearance, clear information, and a smooth br
 
 # LAYOUT STRUCTURE
 Coming towards the Layout Structure of this website, it is designed to keep the user experience simple and easy to navigate.
+
 The "HOMEPAGE" -- This page is where a Customer starts to build a trust and I wantwed to represent the Service " ONYX" in the most premium visuals.
+
 The "Services" -- This Page is where the Customer wants to see when they open a Salon website and I designed this to show them an Overview of Services that the Salon provides.
+
 The "Men Page" -- This is a sub page under "Servies" page is designed to give a preview of Servies that are provided for "MEN" in this Salon.
+
 The "Women Page" -- This is the sub page under "Services" page is designed to give a prevoew of serives that are provided for "WOMEN" in this Salon.
+
 The "Booking Information" Page -- This is the page from where "Appointment" flow starts where the customer selects their preffered services along with their preffered timings.
+
 The "Booking Review" Page -- This is the page where the Customer can preview their appointment beofre confirming to pay for the booking.
+
 The "Booking Confirmation" Page -- This is the page where the Customer will find their Whether their Booking is confirmed or not along with the Booking ID.
+
 The " Account" Page -- This is the profile page of a customer where they can find their details for their bookings along with their Personal Info.
 
 # UX Decisions
